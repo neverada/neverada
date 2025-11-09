@@ -8,7 +8,7 @@ Currently learning, building, and experimenting with modern web technologies —
 ---
 
 ### 🧩 Tech Stack
-**Exploring:** TypeScript, Next.js, Cybersecurity Fundamentals  
+**Exploring:** Reactjs  
 **Languages:** JavaScript, HTML, CSS   
 **Tools:** Git, VS Code 
 
