@@ -3,7 +3,7 @@
 ** Web Developer | Tech Learner**  
 
 I'm someone who believes that great code comes from curiosity, consistency, and breaking things to understand how they work.  
-Currently learning, building, and experimenting with modern web technologies — with a long-term focus on cybersecurity and system design.  
+Currently learning, building, and experimenting with modern web technologies.
 
 ---
 
@@ -44,7 +44,7 @@ Currently learning, building, and experimenting with modern web technologies —
 
 ---
 
-> *“Real learning starts when you stop copying and start breaking things.”*
+> 
 
 
 <!--
